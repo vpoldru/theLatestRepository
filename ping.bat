@@ -1,6 +1,6 @@
 @echo OFF
 echo %date% at %time%
 echo.
-echo "KINGMIKO"
+echo "MIKO MIKO"
 ping.exe www.google.com
 GOTO:EOF
